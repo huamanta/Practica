@@ -1,0 +1,24 @@
+{
+  "name": "lenguajedeprogramacion3",
+  "version": "1.0.0",
+  "description": "Examen de lenguaje de programacion 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "Alis Huamanta--alexhe406@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "morgan": "^1.8.1",
+    "nodemon": "^1.11.0",
+    "pg": "^6.2.2",
+    "sequelize": "^3.30.4"
+  }
+}
